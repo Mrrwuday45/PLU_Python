@@ -1,0 +1,29 @@
+1. Which of the following is an immutable data type in Python?
+ (c)Tuple 
+
+2. print(15 // 4) outputs?
+A. B. 3 
+
+3. Which operator is used for comparison?
+B. == 
+
+4. x=10; if x>5: print('Hello') Output?
+A. Hello 
+
+5. Which loop is used when the number of iterations is known?
+B. for 
+
+6. Which keyword defines a function?
+C. def 
+
+7. Which module generates random numbers?
+A. random 
+
+8. Which mode appends to a file?
+C. a 
+
+9. Which keyword handles exceptions?
+C. except 
+
+10. OOP concept where one class acquires another's properties?
+C. Inheritance 
