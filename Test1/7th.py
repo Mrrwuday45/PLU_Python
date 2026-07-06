@@ -1,3 +1,6 @@
 obj_file=open("name.txt",'w')
 obj_file.write("Uday kiran")
 obj_file.close()
+obj_file=open("name.txt",'r')
+print(obj_file.read())
+obj_file.close()

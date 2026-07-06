@@ -1,0 +1,7 @@
+n=int(input("enter the number: "))
+if n>5:
+    print("hello world")
+else:
+    print("nothing")
+
+print(15//4)
