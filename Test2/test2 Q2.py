@@ -1,3 +1,4 @@
+#Insert a new node containing 25 after the node containing 20.
 class Node:
     def __init__(self, data):
         self.data = data

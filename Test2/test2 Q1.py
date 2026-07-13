@@ -1,3 +1,4 @@
+#.Create a linked list containing the values 10, 20, 30, 40, 50 and display all the elements.
 class Node:
     def __init__(self, data):
         self.data = data

@@ -6,3 +6,4 @@ stack.append(15)
 stack.append(20)
 
 print("Top element =", stack[-1])
+stack.pop()
